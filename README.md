@@ -128,4 +128,5 @@ homewise-vision-website/
 - **Bhargav Gajare** - [GitHub](https://github.com/bhargavgajare1479) | [LinkedIn](https://www.linkedin.com/in/bhargavsg/)
 - **Aryan Yadav** - [GitHub](https://github.com/aryanyadav-dev) | [LinkedIn](https://www.linkedin.com/in/-aryanyadav/)
 - **Jash Damania** - [GitHub](https://github.com/Intr0vert1648) | [LinkedIn](https://www.linkedin.com/in/jash-damania-a61281266/)
+- **Om Awadhootv** - [GitHub](https://github.com/omawadhoot) | [LinkedIn](https://www.linkedin.com/in/om-awadhoot/)
 
