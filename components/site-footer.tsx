@@ -15,61 +15,30 @@ export function SiteFooter() {
               Transform your blueprints into interactive 3D models with AR technology
             </p>
           </div>
-          <div className="grid grid-cols-2 gap-8 sm:grid-cols-3 md:flex-1">
-            <div className="grid gap-3 text-sm">
+          <div className="flex justify-end md:flex-1">
+            <div className="mr-32 text-sm">
               <h3 className="font-medium">Product</h3>
-              <nav className="grid gap-3">
+              <nav className="mt-3 flex flex-col gap-3">
                 <Link href="/features" className="hover:underline">
                   Features
                 </Link>
                 <Link href="/demo" className="hover:underline">
                   Demo
                 </Link>
-                <Link href="/pricing" className="hover:underline">
-                  Pricing
-                </Link>
               </nav>
             </div>
-            <div className="grid gap-3 text-sm">
+            <div className="text-sm">
               <h3 className="font-medium">Company</h3>
-              <nav className="grid gap-3">
+              <nav className="mt-3 flex flex-col gap-3">
                 <Link href="/about" className="hover:underline">
                   About
-                </Link>
-                <Link href="/blog" className="hover:underline">
-                  Blog
-                </Link>
-                <Link href="/careers" className="hover:underline">
-                  Careers
-                </Link>
-              </nav>
-            </div>
-            <div className="grid gap-3 text-sm">
-              <h3 className="font-medium">Legal</h3>
-              <nav className="grid gap-3">
-                <Link href="/privacy" className="hover:underline">
-                  Privacy
-                </Link>
-                <Link href="/terms" className="hover:underline">
-                  Terms
-                </Link>
-                <Link href="/contact" className="hover:underline">
-                  Contact
                 </Link>
               </nav>
             </div>
           </div>
         </div>
         <div className="flex flex-col gap-3 sm:flex-row items-center justify-between text-xs text-muted-foreground">
-          <p>© 2024 Homewise Vision. All rights reserved.</p>
-          <div className="flex gap-4">
-            <Link href="#" className="hover:underline">
-              Privacy Policy
-            </Link>
-            <Link href="#" className="hover:underline">
-              Terms of Service
-            </Link>
-          </div>
+          <p>© 2025 Homewise Vision. All rights reserved.</p>
         </div>
       </div>
     </footer>
