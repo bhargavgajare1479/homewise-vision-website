@@ -11,7 +11,11 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Homewise Vision - AR Blueprint Visualization",
   description: "Transform your blueprints into interactive 3D models with AR technology",
-  generator: 'v0.dev'
+  generator: 'v0.dev',
+  icons: {
+    icon: '/pixellabs_white.png',
+    apple: '/pixellabs_white.png',
+  }
 }
 
 export default function RootLayout({
@@ -21,6 +25,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="icon" href="/pixellabs_white.png" />
+      </head>
       <body className={inter.className}>
         <ThemeProvider 
           attribute="class" 
