@@ -1,5 +1,13 @@
 # Homewise Vision
 
+<div align="center">
+  <img src="public/hero demo-1.png" alt="Homewise Vision Blueprint View" width="80%" />
+  <p><em>Interactive Blueprint Visualization</em></p>
+  
+  <img src="public/hero demo-2.png" alt="Homewise Vision 3D View" width="80%" />
+  <p><em>3D Model Visualization</em></p>
+</div>
+
 ## Overview
 
 Homewise Vision is an innovative web application that transforms standard 2D blueprints into interactive 3D models and AR experiences. It helps homeowners, architects, and construction professionals visualize spaces before they're built, improving decision-making and reducing costly changes during construction.
