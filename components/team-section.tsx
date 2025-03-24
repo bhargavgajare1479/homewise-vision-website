@@ -60,7 +60,7 @@ export function TeamSection() {
           <div className="flex flex-col rounded-lg bg-card text-card-foreground shadow-sm overflow-hidden">
             <div className="p-6">
               <div className="h-48 bg-gray-100 rounded-md flex items-center justify-center mb-4 overflow-hidden pt-0">
-                <img src="/aryan.jpg" alt="Aryan Yadav" className="w-full h-full object-cover object-top" />
+                <img src="/aryan.jpg" alt="Aryan Yadav" className="w-full h-full object-cover" style={{ objectPosition: "center -5px" }} />
               </div>
               <h3 className="text-xl font-bold">Aryan Yadav</h3>
               <p className="text-sm text-gray-500 mb-2">Game Developer</p>
