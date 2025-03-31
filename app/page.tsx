@@ -83,10 +83,6 @@ export default function HomePage() {
         <Suspense fallback={<div className="h-64 bg-muted/40 rounded-lg animate-pulse"></div>}>
           <PricingSection />
         </Suspense>
-        
-        <Suspense fallback={<div className="h-64 bg-muted/40 rounded-lg animate-pulse"></div>}>
-          <TeamSection />
-        </Suspense>
       </main>
     </div>
   )
